@@ -1,6 +1,6 @@
 # MotorDC
 Lucrare de Licenta pentru Universitatea Politehnica din Bucuresti, Facultatea de Energetica
-#Scop
+# Scop
 Aplicatia are ca scop simularea unui motor de curent continuu cu excitatie independenta folosind limbajul Java
 Parametrii motorului sunt:
 •Rezistența circuitului rotoric 𝑅𝑎 
@@ -17,7 +17,7 @@ Marimile de iesire:
 • Intensitatea curentului _Ia_
 • Viteza de rotatie a motorului _w_
 
-#Regulator PI
+# Regulator PI
 In cadrul aplicatie este posibila introducerea unui regulator PI. Pentru utilizarea regulatorului PI este necesara:
 • Viteza de rotatie tinta
 • Constanta P
